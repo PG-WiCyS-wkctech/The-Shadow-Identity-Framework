@@ -37,9 +37,13 @@ Download your historical data to physical media. Once verified, delete the cloud
 Plaintext
 
 ├── /curriculum          # Lesson plans for kids and beginners
+
 ├── /documentation       # Detailed GRC-level setup guides
+
 ├── /hardware            # Recommendations for M-DISC & Encrypted SSDs
+
 ├── /templates           # Master Sync Matrix spreadsheets
+
 └── /checklists          # Step-by-step guides for iCloud, Gmail, & Outlook
 
 🛡️ GRC Compliance for the Family

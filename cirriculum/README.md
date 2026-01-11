@@ -91,7 +91,7 @@ To complete the Shadow Identity Framework, you must present your **Personal GRC 
 
 ---
 
-**Project Lead:** [Your Name]  
+**Project Lead:** Kathryn Wilson 
 **License:** CC BY-SA 4.0  
 *Help us improve this curriculum by opening an Issue or Pull Request!*
 ---

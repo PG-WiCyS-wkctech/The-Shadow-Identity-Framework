@@ -41,6 +41,7 @@ Plaintext
 ├── /hardware            # Recommendations for M-DISC & Encrypted SSDs
 ├── /templates           # Master Sync Matrix spreadsheets
 └── /checklists          # Step-by-step guides for iCloud, Gmail, & Outlook
+
 🛡️ GRC Compliance for the Family
 This project applies the pillars of Governance, Risk, and Compliance (GRC) to personal data:
 

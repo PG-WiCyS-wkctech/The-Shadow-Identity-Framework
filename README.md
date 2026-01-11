@@ -72,15 +72,8 @@ Open a Pull Request.
 Distributed under the Creative Commons Attribution-ShareAlike 4.0 International License. See LICENSE for more information.
 
 📬 Contact
-Project Lead: [Your Name/Handle]
+Project Lead: Kathryn Wilson
 
-GitHub: [Your GitHub Link]
+GitHub: https://github.com/PG-WiCyS-wkctech/The-Shadow-Identity-Framework
 
-LinkedIn: [Your LinkedIn Link]
-
-Pro-Tips for your GitHub Repo:
-Use a Diagram: GitHub supports Mermaid.js. You can add a code block that renders a flow chart of your Hub-and-Spoke model.
-
-Add a "Why" Section: Mention that this helps people with "Email Anxiety" by organizing the chaos.
-
-Visuals: If you have a physical backup drive or an M-DISC, take a photo and include it in the README.
+LinkedIn:https://lnkd.in/gaYSx5EK

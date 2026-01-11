@@ -1,79 +1,67 @@
-🛡️ The Shadow Identity Framework (SIF)
-Enterprise-Grade Email Security and Data Sovereignty for the Modern Individual.
+# 🎭 Shadow Identity Framework (SIF)
 
-The Shadow Identity Framework is an open-source methodology designed to decouple your Login Identity from your Public Persona. In a world of constant data breaches and rising cloud costs, SIF provides a blueprint for "Cloaked Logins" and long-term physical data retention.
+[![Compliance: GRC-Level](https://img.shields.io/badge/Compliance-GRC--Level-blue?style=for-the-badge)](./standards)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey?style=for-the-badge)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Storage Goal: $0 Cloud Cost](https://img.shields.io/badge/Goal-%240_Cloud_Cost-green?style=for-the-badge)](./hardware)
 
-📖 The Core Philosophy: "Identity ≠ Communication"
-Most people use their primary email address as their username for every website. If that email is leaked, your entire digital life is at risk. SIF fixes this using the Shadow Identity model:
+> **A professional-grade system for personal data sovereignty.** > Decouple your digital identity from your communication, mask your metadata, and transition from high-cost "Cloud Renting" to permanent physical ownership.
 
-The Vault (Shadow Identity): A secret, unguessable email address used only for account login. It is never used to send mail and is never shared with humans.
+---
 
-The Mask (Public Alias): The address you give to banks, schools, and friends. It acts as a "firewall" for your Vault.
+## 🚀 The Mission: From Chaos to Sovereignty
 
-The Purge (Data Sovereignty): A systematic workflow to move high-volume data (photos/videos) from "rented" cloud space to "owned" physical media.
+Most digital users suffer from **"Email Bloat"** and **"Identity Leakage."** We give out our primary login email to every bank, school, and store, creating a massive security risk and mounting monthly cloud storage fees.
 
-🚀 Key Features
-Zero-Cost Scaling: Learn how to stay within the free tiers of iCloud and Gmail forever.
+The **Shadow Identity Framework** solves this through three core pillars:
+1.  **Identity Cloaking:** Using "Vault" addresses for logins and "Mask" addresses for communications.
+2.  **The Storage Diet:** A systematic "Burn and Purge" workflow to move data from expensive clouds to **1,000-year M-DISC archives**.
+3.  **Cryptographic Assurance:** Enforcing hardware MFA (YubiKeys) and S/MIME encryption as non-negotiable standards.
 
-Credential Cloaking: Techniques to ensure your secret login address is never leaked in email headers.
+---
 
-Unified Interface: A strategy for managing 5+ email addresses in one app without data duplication.
+## 📂 Repository Architecture
 
-1,000-Year Backups: Guides on using M-DISC and encrypted SSD technology for permanent archives.
+This repository is organized as a **GRC (Governance, Risk, and Compliance)** environment.
 
-🛠️ Getting Started
-1. The Audit
-Map out your current "Digital Footprint." Identify which accounts are essential and which are legacy (like old AOL/Yahoo accounts) that increase your attack surface.
+| Directory | Content | Purpose |
+| :--- | :--- | :--- |
+| **[📜 /standards](./standards)** | The "Laws" | Non-negotiable rules for Passwords, MFA, and Encryption. |
+| **[📂 /documentation](./documentation)** | The "Manuals" | Deep-dive blueprints for iCloud, Google, and Outlook. |
+| **[🎓 /curriculum](./curriculum)** | The "Roadmap" | Level 1-4 learning paths from Beginner to Archivist. |
+| **[🛠️ /hardware](./hardware)** | The "Tools" | Specs for M-DISC burners, Encrypted SSDs, and YubiKeys. |
+| **[📊 /templates](./templates)** | The "Blueprints" | Master Sync Matrix and Data Inventory spreadsheets. |
+| **[✅ /checklists](./checklists)** | The "Operations" | Step-by-step setup guides for active configuration. |
 
-2. Establish the "Hub"
-Choose your primary secure interface (e.g., iCloud). Set up the Master Sync Matrix to track your aliases, recovery loops, and storage status.
+---
 
-Note: Use the Template Spreadsheet provided in this repo.
+## 🛠️ Getting Started (The Workflow)
 
-3. The "Burn and Purge"
-Download your historical data to physical media. Once verified, delete the cloud versions to reset your storage billing to $0.
+To implement SIF for your digital life, follow this sequence:
 
-📂 Repository Structure
-Plaintext
+1.  **Audit (Templates):** Download the [Master Sync Matrix](./templates) and map your existing 7+ accounts.
+2.  **Learn (Curriculum):** Move through [Level 1 and 2](./curriculum) to understand the Hub-and-Spoke model.
+3.  **Hardening (Standards):** Apply the [Identity & Encryption Standards](./standards) (MFA, Passwords).
+4.  **Execution (Checklists):** Follow the [iCloud or Gmail Checklists](./checklists) to "Flip" your identity.
+5.  **Archival (Hardware):** Execute your first "Burn and Purge" to [M-DISC or SSD](./hardware).
 
-├── /curriculum          # Lesson plans for kids and beginners
+---
 
-├── /documentation       # Detailed GRC-level setup guides
+## 🏛️ GRC Compliance Summary
 
-├── /hardware            # Recommendations for M-DISC & Encrypted SSDs
+This framework operates under a strict compliance model:
 
-├── /templates           # Master Sync Matrix spreadsheets
+* **Governance:** Every account must have a defined **Vault** (Secret) and **Mask** (Public) identity.
+* **Risk:** SMS recovery is prohibited. Hardware-backed 2FA is the minimum standard for the "Hub."
+* **Compliance:** Annual audits ensure cloud storage remains below the "Billing Wall" (Free Tier) and physical backups are verified.
 
-└── /checklists          # Step-by-step guides for iCloud, Gmail, & Outlook
+---
 
-🛡️ GRC Compliance for the Family
-This project applies the pillars of Governance, Risk, and Compliance (GRC) to personal data:
+## 🔐 Security & Privacy
+* **Zero-Knowledge:** This repository contains *structures*, not *data*. Never commit your populated spreadsheets or private keys.
+* **Local-First:** We prioritize local encrypted storage over cloud-syncing whenever possible.
 
-Governance: You own the rules of your data flow.
+---
 
-Risk: Minimizing the attack surface via cloaked logins.
-
-Compliance: Ensuring your digital legacy is stored on immutable media (M-DISC).
-
-🤝 Contributing
-We welcome contributions from cybersecurity experts, educators, and parents!
-
-Fork the Project.
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature).
-
-Commit your Changes (git commit -m 'Add some AmazingFeature').
-
-Push to the Branch (git push origin feature/AmazingFeature).
-
-Open a Pull Request.
-
-📄 License
-Distributed under the Creative Commons Attribution-ShareAlike 4.0 International License. See LICENSE for more information.
-
-📬 Contact
-Project Lead: Kathryn Wilson
-
-GitHub: https://github.com/PG-WiCyS-wkctech/The-Shadow-Identity-Framework
-
-LinkedIn:https://lnkd.in/gaYSx5EK
+**Project Lead:** Kathryn Wilson
+**Version:** 1.0.0  
+**Disclaimer:** This framework involves changing security settings on sensitive accounts. Always maintain physical recovery codes in a safe location before beginning.

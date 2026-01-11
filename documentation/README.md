@@ -42,4 +42,13 @@ Detailed guides on isolating your primary communications from public-facing inte
 - [ ] **Identity Isolation:** The "Primary Email" (Vault) is never used for a public-facing login.
 - [ ] **Header Integrity:** Outgoing test emails show 0% leakage of the primary mailbox address in the `Return-Path`.
 - [ ] **MFA Hardening:** All "Shadow Logins" use hardware security keys (FIDO2) or TOTP; no SMS-based recovery.
-- [ ] **Archival Redundancy:** Annual data snapshots are committed to M-DISC or an equivalent non
+- [ ] **Archival Redundancy:** Annual data snapshots are committed to M-DISC or an equivalent non-volatile physical medium.
+
+---
+
+## 🛠️ Usage Instructions
+
+To implement a new segment of your communication infrastructure:
+1.  **Select the Blueprint:** Choose the relevant `.md` file from the directory map above.
+2.  **Execute the Setup:** Follow the **Technical Deep-Dive** section within that file.
+3.  **Perform the Audit:** Run the "Verification" steps at the end of each guide to confirm no metadata is leaking.

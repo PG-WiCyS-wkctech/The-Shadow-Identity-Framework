@@ -21,11 +21,11 @@ In a fragmented digital world, security fails because of inconsistency. By enfor
 
 | Standard ID | Title | Level | The Law in Brief |
 | :--- | :--- | :--- | :--- |
-| **[SIF-STD-001](./PASSWORD_POLICY.md)** | **Password & Credential** | 🔴 Mandatory | No human-memorized passwords. 20+ char random strings only. |
-| **[SIF-STD-002](./MFA_STANDARDS.md)** | **Authentication (MFA)** | 🔴 Mandatory | FIDO2 Hardware is the source of truth. **SMS is Prohibited.** |
-| **[SIF-STD-003](./ENCRYPTION_STANDARDS.md)** | **Encryption & Certs** | 🟡 Recommended | Outgoing mail must be S/MIME signed; Archives must be AES-256. |
-| **[SIF-STD-004](./IDENTITY_GOVERNANCE.md)** | **Identity Governance** | 🔴 Mandatory | Separation of "Identity" (Login) from "Communication" (Mask). |
-| **[SIF-RAT-001](./WHY_NO_SMS.md)** | **Rationale: No SMS** | 📖 Info | Technical context on SIM-swapping and SS7 vulnerabilities. |
+| **[SIF-STD-001](./SIF-STD-001_PASSWORD_&_POLICY.md)** | **Password & Credential** | 🔴 Mandatory | No human-memorized passwords. 20+ char random strings only. |
+| **[SIF-STD-002](./SIF-STD-002_MFA_STANDARDS.md)** | **Authentication (MFA)** | 🔴 Mandatory | FIDO2 Hardware is the source of truth. **SMS is Prohibited.** |
+| **[SIF-STD-003](./SIF-STD-003_ENCRYPTION_STANDARDS.md)** | **Encryption & Certs** | 🟡 Recommended | Outgoing mail must be S/MIME signed; Archives must be AES-256. |
+| **[SIF-STD-004](./SIF-STD-004_IDENTITY_GOVERNANCE.md)** | **Identity Governance** | 🔴 Mandatory | Separation of "Identity" (Login) from "Communication" (Mask). |
+| **[SIF-RAT-001](./SIF-RAT-001_WHY_NO_SMS.md)** | **Rationale: No SMS** | 📖 Info | Technical context on SIM-swapping and SS7 vulnerabilities. |
 
 ---
 

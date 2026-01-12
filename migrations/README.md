@@ -54,5 +54,5 @@ A migration is only considered "Complete" when:
 
 ---
 
-**Project Lead:** [Your Name]  
+**Project Lead:** Kathryn Wilson 
 **Current Milestone:** Phase 1 (Hardening)

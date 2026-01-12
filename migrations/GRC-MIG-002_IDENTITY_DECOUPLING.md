@@ -1,4 +1,5 @@
 # 🎭 MIG-002: Identity Decoupling Guide
+**Standard ID:** [Migrations (GRC-MIG-000)](./README.md)
 
 > **Standard ID:** GRC-MIG-002  
 > **Status:** Operational Guide  

@@ -68,4 +68,4 @@ To prevent "Ad-tracker" leakage and unauthorized access:
 
 ---
 
-**Next Step:** Ensure your Master Passphrase meets these requirements before moving to **[SIF-STD-002: MFA Standards](./MFA_STANDARDS.md)**.
+**Next Step:** Ensure your Master Passphrase meets these requirements before moving to **[SIF-STD-002: MFA Standards](./SIF-STD-002_MFA_STANDARDS.md)**.

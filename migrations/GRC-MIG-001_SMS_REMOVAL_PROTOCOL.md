@@ -1,6 +1,6 @@
 # 🛡️ GRC-MIG-001: SMS Removal Protocol
 
-> **Document ID:** GRC-MIG-001  
+> **Document ID:** GRC-MIG(./GRC-MIG-001_README_INDEX.md)-001  
 > **Status:** Operational / Critical  
 > **Target:** Elimination of Carrier-Dependent MFA  
 > **Version:** 1.0 (2026)

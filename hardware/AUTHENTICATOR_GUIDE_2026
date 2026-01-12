@@ -1,0 +1,13 @@
+# 🛠️ Hardware: 2026 Authenticator Procurement List
+
+### 💍 Smart Rings (The "Invisible" Key)
+* **Token Ring:** The gold standard. Features an internal EAL5+ certified secure element and a capacitive fingerprint sensor. It only stays "active" while on your finger.
+* **Quarring FIDO2:** A minimalist alternative that works via NFC and gestures.
+
+### 🪪 Smart Cards (The "Identity Badge")
+* **Thales SafeNet IDPrime FIDO Bio:** A smart card with an embedded fingerprint sensor. Ideal for keeping in your wallet as a "Digital ID."
+* **YubiKey 5 FIPS Series:** For users requiring government-grade smartcard (PIV) support for digital signatures.
+
+### 📱 Built-in Biometrics (The "Daily Drivers")
+* **Mobile:** iPhone 15+ (FaceID) or Pixel 8+ (Class 3 Biometrics).
+* **Desktop:** Logitech MX Keys (with TouchID) or Windows Hello compatible IR Cameras.

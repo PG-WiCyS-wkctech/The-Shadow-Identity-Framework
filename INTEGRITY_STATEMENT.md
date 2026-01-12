@@ -40,3 +40,5 @@ The rejection of modern productivity tools like Generative AI in the development
 ---
 
 **Certified by:** **Kathryn E. Wilson** *Project Lead, Shadow Identity Framework* *President, Purdue University Global WiCyS*
+
+I am the driving force behind the project, articulating the requirements and guiding the process. I formulate the ideas and direct the inquiry, focusing on optimizing GRC (Governance, Risk, and Compliance) practices and establishing Shadow Identities to enhance privacy protection.

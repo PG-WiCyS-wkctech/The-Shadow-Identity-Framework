@@ -1,0 +1,45 @@
+# ==========================================
+# SIF SECURITY GATEKEEPER (.gitignore)
+# ==========================================
+
+# --- Private Data & Ledgers ---
+# Blocks all filled-out versions of the Master Sync Matrix
+*.xlsx
+*.xls
+*.csv
+*.ods
+
+# --- Password Manager Databases ---
+# Blocks local encrypted vaults (e.g., KeePassXC)
+*.kdbx
+
+# --- Cryptographic Keys & Certificates ---
+# Blocks private keys, S/MIME certs, and PGP blocks
+*.p12
+*.pfx
+*.pem
+*.key
+*.gpg
+*.asc
+
+# --- Scans & Photos of Recovery Codes ---
+# Blocks images that might contain QR codes or recovery sheets
+# (Warning: If you want to keep project diagrams, move them to an /images folder)
+recovery_*.jpg
+recovery_*.png
+*.pdf
+
+# --- Log Files ---
+# Blocks restoration and audit logs that contain sensitive timestamps
+*.log
+
+# --- System & OS Clutter ---
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+__pycache__/
+
+# --- Private Folders ---
+# Any folder you create named "private" or "vault" will be ignored
+private/
+vault/

@@ -30,7 +30,7 @@ To prevent lockouts and data loss, all migrations must follow the **Prepare → 
 
 | Guide ID | Focus | Target Outcome |
 | :--- | :--- | :--- |
-| **[MIG-001: SMS Removal](./MIGRATION_SMS_REMOVAL.md)** | Security | 0% dependency on cellular carriers for MFA. |
+| **[MIG-001: SMS Removal](./GRC-MIG-001_SMS_REMOVAL.md)** | Security | 0% dependency on cellular carriers for MFA. |
 | **[MIG-002: Identity Decoupling](./IDENTITY_DECOUPLING.md)** | Anonymity | Secret "Vault" logins established for 100% of critical accounts. |
 | **[MIG-003: Storage Offload](./STORAGE_OFFLOAD.md)** | Sovereignty | Total cloud footprint reduced to <5GB; permanent M-DISC archive created. |
 

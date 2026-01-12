@@ -80,4 +80,4 @@ If you lose your hardware keys during this migration:
 
 ---
 
-**Next Step:** Once SMS is removed, proceed to **[MIG-002: Identity Decoupling](./IDENTITY_DECOUPLING.md)** to change your sign-in emails to your secret Vault addresses.
+**Next Step:** Once SMS is removed, proceed to **[GRC-MIG-002_IDENTITY_DECOUPLING](./GRC-MIG-002_IDENTITY_DECOUPLING.md)** to change your sign-in emails to your secret Vault addresses.
